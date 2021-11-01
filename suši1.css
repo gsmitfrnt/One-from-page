@@ -1,17 +1,20 @@
+/*
+body {
+    padding-left: ;
+}
+*/
+
 .bacground-image{
     background-repeat: no-repeat;
     height: 900vh;
     width: 1600vw;
-    align-items: center;
     background-image: url(susi3.jpg);
 }
 
 header{
-    
         background-color: rgb(33, 36, 61);
-        position:center;
-        
-            height: 85px; 
+        position: center;
+        height: 85px; 
 }
 
 .logo{
@@ -28,13 +31,13 @@ header{
       
 }
 .categories{
-  position: absolute;
+    position: absolute;
     font-size: 25px;
     color: rgb(255, 255, 255);
-   left: 613px;
-   top: 25.5px;
+    left: 613px;
+    top: 25.5px;
     word-spacing: 40px;
-   text-emphasis-color: #ffff;
+    text-emphasis-color: #ffff;
     z-index: 231;
 }
 a{
@@ -63,10 +66,10 @@ img.s1{
 p{
     margin-top: -300px;
     margin-left: 120px;
-   color: #ffff;
-   font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
    
-   font-size: 100px;
+    font-size: 100px;
 
 }
 .z1{
