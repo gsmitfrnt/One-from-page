@@ -1,10 +1,9 @@
 .bacground-image{
-    background-image: url(susi3.jpg);
     background-repeat: no-repeat;
-    height: 900px;
-    width: 1600px;
-    background-position: center;
-    
+    height: 900vh;
+    width: 1600vw;
+    align-items: center;
+    background-image: url(susi3.jpg);
 }
 
 header{
@@ -12,10 +11,9 @@ header{
         background-color: rgb(33, 36, 61);
         position:center;
         
-            height: 85px;
-         
-    
+            height: 85px; 
 }
+
 .logo{
     background-image: url(logo2.jpg);
     background-repeat: no-repeat;
