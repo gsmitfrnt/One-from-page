@@ -1,0 +1,110 @@
+.bacground-image{
+    background-image: url(susi3.jpg);
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 1600px;
+    background-position: center;
+    
+}
+
+header{
+    
+        background-color: rgb(33, 36, 61);
+        position:center;
+        
+            height: 85px;
+         
+    
+}
+.logo{
+    background-image: url(logo2.jpg);
+    background-repeat: no-repeat;
+    color: none;
+    height: 48px;
+    width: 210px;
+   
+        position: absolute;
+        left: 1152px;
+        top: 31px;
+   
+      
+}
+.categories{
+  position: absolute;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+   left: 613px;
+   top: 25.5px;
+    word-spacing: 40px;
+   text-emphasis-color: #ffff;
+    z-index: 231;
+}
+a{
+    color: #ffff;
+    text-decoration: none;
+}
+i{
+    font-size: 25px;
+    position:absolute;
+    left: 850px;
+    top: 8px;
+    color:#ffff;
+    
+}
+.i.actice{
+    width: 360px;
+}
+img.s1{
+   
+ position: absolute;
+ left: 100px;
+ top: 20px;
+    
+    
+}
+p{
+    margin-top: -300px;
+    margin-left: 120px;
+   color: #ffff;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   
+   font-size: 100px;
+
+}
+.z1{
+   color: #ffff;
+   font-size: 90px;
+   text-align: left;
+   border: 0px;
+   border-style: solid;
+   padding-bottom: 40px;
+   margin-top: 230px;
+   margin-right: 1100px;
+   margin-left: 120px;
+}
+#poga{
+    
+        background-color: rgb(33, 36, 61);
+        position: absolute;
+        left: 56px;
+        top: 577px;
+        width: 322px;
+        height: 65px;
+        z-index: 220;
+       
+  
+      
+}
+
+/*dsds
+.Home__Product__Promo__About__Contact {
+    font-size: 25px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    position: absolute;
+    left: 413.925px;
+    top: 25.5px;
+    z-index: 231;
+  }//*
+  
